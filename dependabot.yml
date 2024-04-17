@@ -1,0 +1,6 @@
+updates:
+  - package-ecosystem: "all"
+    schedule:
+      interval: "daily"
+    labels:
+      - security
